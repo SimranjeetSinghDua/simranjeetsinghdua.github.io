@@ -1,5 +1,3 @@
-<div align="center">
-
 # Simranjeet Singh Dua
 ### Cloud Platform Engineer
 
@@ -7,10 +5,6 @@
 [![Phone](https://img.shields.io/badge/Phone-%2B47%20922%2081%20596-00A4EF?style=flat-square&logo=telegram&logoColor=white)](tel:+4792281596)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranjeet-singh-dua/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SimranjeetSinghDua)
-
-
-
-</div>
 
 ---
 
@@ -152,8 +146,6 @@ on hybrid worker infrastructure.
 
 ---
 
-<div align="center">
-
 ### 📫 Let's Connect!
 
 *I'm always interested in hearing about new projects and opportunities in cloud infrastructure, DevOps, and automation.*
@@ -161,12 +153,6 @@ on hybrid worker infrastructure.
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simranjeetdua@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranjeet-singh-dua/)
 
-</div>
-
 ---
 
-<div align="center">
-
 *Last updated: March 2026*
-
-</div>
