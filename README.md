@@ -10,7 +10,7 @@
 
 ## 🎯 Professional Summary
 
-Versatile **Cloud DevOps Engineer** with 4+ years of experience bridging the gap between development and operations. Specialized in building scalable, automated infrastructure solutions using modern cloud-native tooling.
+Versatile **Cloud Platform Engineer** specializing in building scalable internal developer platforms and automating cloud infrastructure to empower engineering teams with secure, self-service tooling.
 
 <div align="center">
 
