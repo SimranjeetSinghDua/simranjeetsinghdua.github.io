@@ -12,13 +12,10 @@
 
 Versatile **Cloud Platform Engineer** specializing in building scalable internal developer platforms and automating cloud infrastructure to empower engineering teams with secure, self-service tooling.
 
-<div align="center">
-
 | Infrastructure | Configuration | Extensibility | Governance | CI/CD |
 |:---:|:---:|:---:|:---:|:---:|
 | Terraform | Ansible | Python | GitHub | GitHub Actions |
 
-</div>
 
 ---
 
