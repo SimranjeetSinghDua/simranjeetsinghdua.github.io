@@ -12,9 +12,9 @@
 
 I am a versatile **Cloud Platform Engineer** with over 4 years of professional experience specializing in building scalable internal developer platforms and automating cloud infrastructure. My focus is on empowering engineering teams with secure, self-service tooling and creating "golden paths" for seamless deployment.
 
-| Infrastructure | Configuration | Extensibility | Governance | CI/CD |
-|:---:|:---:|:---:|:---:|:---:|
-| Terraform | Ansible | Python | GitHub | GitHub Actions |
+Cloud | Infrastructure | Configuration | Extensibility | Governance | CI/CD |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+Azure | Terraform | Ansible | Python | GitHub | GitHub Actions |
 
 
 ---
