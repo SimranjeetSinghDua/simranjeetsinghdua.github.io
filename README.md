@@ -105,7 +105,7 @@ on hybrid worker infrastructure.
 
 | Degree | Institution | Period | Location |
 |--------|-------------|--------|----------|
-| **Master's in Information Technology** | NTNU | Aug 2021 – Dec 2023 | Gjøvik, Norway |
+| **Master's in Information Security** | NTNU | Aug 2021 – Dec 2023 | Gjøvik, Norway |
 | **Bachelor of Technology, Computer Science** | Guru Gobind Singh IP University | Aug 2015 – Aug 2019 | New Delhi, India |
 
 ---
